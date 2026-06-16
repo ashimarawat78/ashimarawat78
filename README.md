@@ -15,7 +15,7 @@ Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Web D
 ## Tech Skills
 
 ### **Languages**
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=Lang&logoColor=black)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ### **Web Development**
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)

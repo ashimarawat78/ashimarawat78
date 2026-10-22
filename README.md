@@ -73,3 +73,13 @@ I'm always happy to talk about projects, collaborations or internship opportunit
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashimarawat78)
 
 </div>
+
+---
+
+<div align="center">
+
+**Thank you for stopping by.**
+
+If you liked my work, feel free to leave a star on my repositories.
+
+</div>

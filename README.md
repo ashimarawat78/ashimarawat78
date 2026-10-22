@@ -80,6 +80,5 @@ I'm always happy to talk about projects, collaborations or internship opportunit
 
 **Thank you for stopping by.**
 
-If you liked my work, feel free to leave a star on my repositories.
 
 </div>
